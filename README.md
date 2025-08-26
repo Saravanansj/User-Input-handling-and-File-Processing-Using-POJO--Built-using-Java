@@ -1,3 +1,6 @@
 # User-Input-handling-and-File-Processing-Using-POJO--Built-using-Java
 
-There are some issues i worked on it so kindly make sure use of it by review and verify and it may have mistakes.
+## Disclaimer
+The solutions and implementations in this project are provided based on my knowledge and online references.
+They may not be fully correct or complete, so please review and verify them before use.
+Feedback, suggestions, reports of mistakes, and ideas for improvement are always welcome to help enhance the project.
